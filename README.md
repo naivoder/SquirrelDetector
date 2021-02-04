@@ -2,7 +2,7 @@
 
 This repository contains a Squirrel Object Detection model and weights.  
 The model is built on a Keras implementation of YOLOv4 written by [taipingeric](https://github.com/taipingeric/yolo-v4-tf.keras).  
-This repository is NOT a training tutorial, its is a functional pretrained object detector.
+This repository is NOT a training tutorial, it is a functional pretrained object detector.
 
 ![img1](imgs/1.png)
 
